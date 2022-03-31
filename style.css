@@ -1,0 +1,48 @@
+
+nav > ul > li > a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 26px 77px;
+    /* background-color: chartreuse; */
+}
+nav > ul > li{
+    list-style: none;
+    display: inline-block;
+    
+}
+nav{
+    background-color: blue;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS Links */
+
+
+
+
+
+
+
+
+/* CSS List */
+
+
+
+
+
+
+
+/* CSS Float */
